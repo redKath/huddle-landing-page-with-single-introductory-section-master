@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot (Video)
 
-https://user-images.githubusercontent.com/47875009/183228550-07b20ab6-67f3-4370-a55a-2680887e9fae.mp4
+https://user-images.githubusercontent.com/47875009/183229440-06b29189-600a-4066-a0ff-46ae3203c5fd.mp4
 
 ### Links
 
