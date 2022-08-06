@@ -29,8 +29,8 @@ https://user-images.githubusercontent.com/47875009/183229440-06b29189-600a-4066-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Huddle landing page Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-LdYHMHpxtO)
+- Live Site URL: [Huddle Landing page by redKath](https://visionary-bonbon-a9291c.netlify.app/)
 
 ## My process
 
